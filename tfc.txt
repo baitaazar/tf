@@ -1,3 +1,23 @@
-admin,master,30/12/2099,99999999999,teste@exemplo.com
-testelog,testelog,30/02/2021,99999999999,teste@exemplo.com
-09081621638,09081,13/11/2024,99999999999,teste@exemplo.com
+[
+    {
+        "login": "admin",
+        "senha": "master",
+        "data_validade": "30/12/2099",
+        "telefone": "99999999999",
+        "email": "teste@exemplo.com"
+    },
+    {
+        "login": "testelog",
+        "senha": "testelog",
+        "data_validade": "30/02/2021",
+        "telefone": "99999999999",
+        "email": "teste@exemplo.com"
+    },
+    {
+        "login": "09081621638",
+        "senha": "09081",
+        "data_validade": "13/11/2024",
+        "telefone": "99999999999",
+        "email": "teste@exemplo.com"
+    }
+]
