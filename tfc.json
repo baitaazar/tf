@@ -1,22 +1,15 @@
 [
     {
-        "login": "admin",
-        "senha": "master",
-        "data_validade": "30/12/2099",
-        "telefone": "99999999999",
-        "email": "teste@exemplo.com"
-    },
-    {
         "login": "testelog",
-        "senha": "testelog",
+        "senha": "logtester1123",
         "data_validade": "18/02/2025",
         "telefone": "99999999999",
         "email": "teste@exemplo.com"
     },
     {
-        "login": "09081621638",
-        "senha": "09081",
-        "data_validade": "13/11/2024",
+        "login": "teste37",
+        "senha": "00teste37",
+        "data_validade": "05/01/2025",
         "telefone": "99999999999",
         "email": "teste@exemplo.com"
     }
