@@ -1,0 +1,40 @@
+{
+  "user_data": [
+    {
+      "IPV4" : "",
+      "IPV6" : "",
+      "MAC" : "",
+      "Hostname" : "",
+      "OS" : "",
+      "User" : "",
+      "Spec" : "",
+      "Python" : "",
+      "User_Login" : "",
+      "Password" : ""
+    },
+    {
+      "IPV4" : "",
+      "IPV6" : "",
+      "MAC" : "",
+      "Hostname" : "",
+      "OS" : "",
+      "User" : "",
+      "Spec" : "",
+      "Python" : "",
+      "User_Login" : "",
+      "Password" : ""
+    },
+    {
+      "IPV4" : "",
+      "IPV6" : "",
+      "MAC" : "",
+      "Hostname" : "",
+      "OS" : "",
+      "User" : "",
+      "Spec" : "",
+      "Python" : "",
+      "User_Login" : "",
+      "Password" : ""
+    }
+  ]
+}
