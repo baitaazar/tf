@@ -1,0 +1,16 @@
+[
+    {
+        "login": "testelog",
+        "senha": "logtester1123",
+        "data_validade": "18/02/2025",
+        "telefone": "99999999999",
+        "email": "teste@exemplo.com"
+    },
+    {
+        "login": "teste37",
+        "senha": "00teste37",
+        "data_validade": "11/01/2025",
+        "telefone": "99999999999",
+        "email": "teste@exemplo.com"
+    }
+]
