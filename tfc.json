@@ -7,6 +7,13 @@
         "email": "teste@exemplo.com"
     },
     {
+        "login": "teste38",
+        "senha": "38testelog1",
+        "data_validade": "15/01/2025",
+        "telefone": "99999999999",
+        "email": "Mariana"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
