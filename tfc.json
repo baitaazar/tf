@@ -56,6 +56,13 @@
         "email": "Junior San"
     },
     {
+        "login": "teste48",
+        "senha": "48tester1325",
+        "data_validade": "18/01/2025",
+        "telefone": "jesus.rafael.tkd",
+        "email": "Rafael Jesus"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
