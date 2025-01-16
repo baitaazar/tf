@@ -63,6 +63,13 @@
         "email": "Rafael Jesus"
     },
     {
+        "login": "teste49",
+        "senha": "9827test49",
+        "data_validade": "18/01/2025",
+        "telefone": "alans_santos",
+        "email": "Alan Santos"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
