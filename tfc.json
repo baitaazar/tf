@@ -28,6 +28,13 @@
         "email": "Pedro Paulo"
     },
     {
+        "login": "teste44",
+        "senha": "44test4444",
+        "data_validade": "18/01/2025",
+        "telefone": "msguttoguarnieri",
+        "email": "Guto Guarnieri"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
