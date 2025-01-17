@@ -78,6 +78,13 @@
     },
     {
         "login": "teste58",
+        "senha": "9876tester97",
+        "data_validade": "19/01/2025",
+        "telefone": "ricardorjunior",
+        "email": "Ricardo Junior"
+    },
+    {
+        "login": "teste58",
         "senha": "9892tester588",
         "data_validade": "19/01/2025",
         "telefone": "higorluisbjj",
