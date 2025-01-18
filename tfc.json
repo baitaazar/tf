@@ -30,7 +30,7 @@
     {
         "login": "teste44",
         "senha": "44test4444",
-        "data_validade": "18/01/2025",
+        "data_validade": "19/01/2025",
         "telefone": "msguttoguarnieri",
         "email": "Guto Guarnieri"
     },
@@ -96,6 +96,13 @@
         "data_validade": "19/01/2025",
         "telefone": "abhelkdj",
         "email": "Abhel KDJ"
+    },
+    {
+        "login": "teste276",
+        "senha": "9112881726",
+        "data_validade": "19/01/2025",
+        "telefone": "costadenilsonn",
+        "email": "Academia Denytae"
     },
     {
         "login": "teste37",
