@@ -168,6 +168,13 @@
         "email": "Jorge de Souza"
     },
     {
+        "login": "gustavocrizel",
+        "senha": "gustavo11627",
+        "data_validade": "25/02/2025",
+        "telefone": "crizelgustavo",
+        "email": "Gustavo Crizel"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
