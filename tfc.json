@@ -210,6 +210,13 @@
         "email": "João Pedro Silva"
     },
     {
+        "login": "cavalheiro",
+        "senha": "cav11315829",
+        "data_validade": "11/02/2025",
+        "telefone": "jorasdaniel",
+        "email": "Equipe Cavalheiro Team"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
