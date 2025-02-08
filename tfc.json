@@ -245,6 +245,13 @@
         "email": "Gustavo Truppel"
     },
     {
+        "login": "arnaldojneto",
+        "senha": "00teste37",
+        "data_validade": "15/02/2025",
+        "telefone": "arnaldojneto",
+        "email": "Arnaldo Jose Neto"
+    }
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
