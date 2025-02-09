@@ -259,6 +259,13 @@
         "email": "Ronaldo de Paula"
     },
     {
+        "login": "centerfitness",
+        "senha": "78817376",
+        "data_validade": "15/02/2025",
+        "telefone": "centerfitnesstaekwondo",
+        "email": "Center Fitness Taekwondo"
+    },
+    {
         "login": "teste37",
         "senha": "00teste37",
         "data_validade": "15/01/2025",
