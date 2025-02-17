@@ -259,13 +259,6 @@
         "email": "Ronaldo de Paula"
     },
     {
-        "login": "center",
-        "senha": "557822",
-        "data_validade": "11/03/2025",
-        "telefone": "centerfitnesstaekwondo",
-        "email": "Center Fitness Taekwondo"
-    },
-    {
         "login": "benassi",
         "senha": "887766",
         "data_validade": "21/02/2025",
@@ -292,6 +285,13 @@
         "data_validade": "21/02/2025",
         "telefone": "denisonmoura42",
         "email": "Denison Moura"
+    },
+    {
+        "login": "center",
+        "senha": "557822",
+        "data_validade": "11/03/2025",
+        "telefone": "centerfitnesstaekwondo",
+        "email": "Center Fitness Taekwondo"
     },
     {
         "login": "teste37",
