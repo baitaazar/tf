@@ -189,13 +189,6 @@
         "email": "Professor Robson Cardoso"
     },
     {
-        "login": "kaiosimao",
-        "senha": "ks9918276",
-        "data_validade": "28/02/2025",
-        "telefone": "kaiosimao5",
-        "email": " Kaio Simão"
-    },
-    {
         "login": "cobram",
         "senha": "12cobram99817",
         "data_validade": "11/02/2025",
@@ -299,6 +292,13 @@
         "data_validade": "11/03/2025",
         "telefone": "centerfitnesstaekwondo",
         "email": "Center Fitness Taekwondo"
+    },
+    {
+        "login": "kaiosimao",
+        "senha": "ks9918276",
+        "data_validade": "25/02/2025",
+        "telefone": "kaiosimao5",
+        "email": " Kaio Simão"
     },
     {
         "login": "teste37",
