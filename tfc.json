@@ -287,11 +287,11 @@
         "email": "Centro Marcial Cref"
     },
     {
-        "login": "center",
-        "senha": "557822",
-        "data_validade": "11/03/2025",
-        "telefone": "centerfitnesstaekwondo",
-        "email": "Center Fitness Taekwondo"
+        "login": "mestreoliene",
+        "senha": "teste5516627",
+        "data_validade": "27/03/2025",
+        "telefone": "mestreolienepersonal",
+        "email": "Oliene Matos Matos"
     },
     {
         "login": "kaiosimao",
@@ -299,6 +299,13 @@
         "data_validade": "25/02/2025",
         "telefone": "kaiosimao5",
         "email": " Kaio Simão"
+    },
+    {
+        "login": "center",
+        "senha": "557822",
+        "data_validade": "11/03/2025",
+        "telefone": "centerfitnesstaekwondo",
+        "email": "Center Fitness Taekwondo"
     },
     {
         "login": "teste37",
