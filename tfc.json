@@ -252,13 +252,6 @@
         "email": "Ronaldo de Paula"
     },
     {
-        "login": "benassi",
-        "senha": "32415140",
-        "data_validade": "01/04/2025",
-        "telefone": "jonathan.tae",
-        "email": "Jonathan Benassi"
-    },
-    {
         "login": "irmaosdeluta",
         "senha": "818727",
         "data_validade": "21/02/2025",
@@ -299,6 +292,13 @@
         "data_validade": "25/02/2025",
         "telefone": "kaiosimao5",
         "email": " Kaio Simão"
+    },
+    {
+        "login": "benassi",
+        "senha": "32415140",
+        "data_validade": "01/04/2025",
+        "telefone": "jonathan.tae",
+        "email": "Jonathan Benassi"
     },
     {
         "login": "center",
