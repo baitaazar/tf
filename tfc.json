@@ -7,13 +7,6 @@
         "email": "teste@exemplo.com"
     },
     {
-        "login": "profmariana2",
-        "senha": "pm107011",
-        "data_validade": "10/03/2025",
-        "telefone": "marianasf",
-        "email": "Mariana Fernandes"
-    },
-    {
         "login": "teste39",
         "senha": "139log1",
         "data_validade": "25/01/2025",
@@ -292,6 +285,13 @@
         "data_validade": "25/02/2025",
         "telefone": "kaiosimao5",
         "email": " Kaio Simão"
+    },
+    {
+        "login": "profmariana2",
+        "senha": "pm107011",
+        "data_validade": "06/03/2025",
+        "telefone": "marianasf",
+        "email": "Mariana Fernandes"
     },
     {
         "login": "benassi",
