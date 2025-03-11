@@ -297,8 +297,15 @@
         "login": "tkdchile7",
         "senha": "test918776",
         "data_validade": "15/03/2025",
-        "telefone": "++584245559336",
+        "telefone": "+584245559336",
         "email": "~Endrys Linares"
+    },
+    {
+        "login": "lucasguzman",
+        "senha": "617609t",
+        "data_validade": "15/03/2025",
+        "telefone": "+5491128461058",
+        "email": "Lucas Guzmán"
     },
     {
         "login": "kaiosimao",
