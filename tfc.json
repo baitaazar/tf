@@ -42,13 +42,6 @@
         "email": "Erivan Silva"
     },
     {
-        "login": "teste47",
-        "senha": "4647test985",
-        "data_validade": "25/01/2025",
-        "telefone": "juniorsan_oficial",
-        "email": "Junior San"
-    },
-    {
         "login": "teste48",
         "senha": "48tester1325",
         "data_validade": "18/01/2025",
@@ -320,6 +313,13 @@
         "data_validade": "06/03/2025",
         "telefone": "marianasf",
         "email": "Mariana Fernandes"
+    },
+    {
+        "login": "sanbrotherstkd",
+        "senha": "4647test985",
+        "data_validade": "25/03/2025",
+        "telefone": "juniorsan_oficial",
+        "email": "Júnior San"
     },
     {
         "login": "profhigorluis",
