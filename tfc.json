@@ -28,13 +28,6 @@
         "email": "Guto Guarnieri"
     },
     {
-        "login": "ctgarra",
-        "senha": "garra11728",
-        "data_validade": "25/02/2025",
-        "telefone": "ctgarrateamfight",
-        "email": "GT Garra Team Fight"
-    },
-    {
         "login": "teste46",
         "senha": "4646test578",
         "data_validade": "25/01/2025",
@@ -306,6 +299,13 @@
         "data_validade": "25/02/2025",
         "telefone": "kaiosimao5",
         "email": " Kaio Simão"
+    },
+    {
+        "login": "ctgarra",
+        "senha": "garra11728",
+        "data_validade": "25/03/2025",
+        "telefone": "ctgarrateamfight",
+        "email": "GT Garra Team Fight"
     },
     {
         "login": "profmariana2",
