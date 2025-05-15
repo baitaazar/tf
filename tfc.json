@@ -119,13 +119,6 @@
         "email": "Thiago Alvez"
     },
     {
-        "login": "profjonathan3",
-        "senha": "81862733",
-        "data_validade": "24/01/2025",
-        "telefone": "prof_jonathan_ofc",
-        "email": "Jonathan"
-    },
-    {
         "login": "academiabarros",
         "senha": "987651123",
         "data_validade": "27/01/2025",
@@ -327,6 +320,13 @@
         "data_validade": "25/03/2025",
         "telefone": "rian_vtkd",
         "email": "Rian Vieira"
+    },
+    {
+        "login": "profjonathan3",
+        "senha": "81862733",
+        "data_validade": "24/05/2025",
+        "telefone": "prof_jonathan_ofc",
+        "email": "Jonathan"
     },
     {
         "login": "paulobarbosa",
