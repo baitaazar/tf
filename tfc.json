@@ -322,6 +322,13 @@
         "email": "Rian Vieira"
     },
     {
+        "login": "tiagopasini",
+        "senha": "645789",
+        "data_validade": "06/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "jhonsamuray",
         "senha": "567221",
         "data_validade": "09/06/2025",
@@ -378,3 +385,4 @@
         "email": "teste@exemplo.com"
     }
 ]
+
