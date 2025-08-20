@@ -322,6 +322,13 @@
         "email": ""
     },
     {
+        "login": "proflmachado",
+        "senha": "931772",
+        "data_validade": "20/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "jhonsamuray",
         "senha": "567221",
         "data_validade": "09/06/2025",
@@ -385,6 +392,7 @@
         "email": ""
     }
 ]
+
 
 
 
