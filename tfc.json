@@ -7,97 +7,6 @@
         "email": ""
     },
     {
-        "login": "teste39",
-        "senha": "139log1",
-        "data_validade": "25/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste43",
-        "senha": "4343log431",
-        "data_validade": "16/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "lgguto",
-        "senha": "1182983",
-        "data_validade": "01/03/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste46",
-        "senha": "4646test578",
-        "data_validade": "25/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste48",
-        "senha": "48tester1325",
-        "data_validade": "18/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste49",
-        "senha": "9827test49",
-        "data_validade": "18/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste57",
-        "senha": "9872tester57",
-        "data_validade": "19/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste58",
-        "senha": "9876tester97",
-        "data_validade": "19/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste58",
-        "senha": "9892tester588",
-        "data_validade": "19/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste59",
-        "senha": "9432tester0008",
-        "data_validade": "19/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste276",
-        "senha": "9112881726",
-        "data_validade": "31/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste277",
-        "senha": "27772736",
-        "data_validade": "25/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
-        "login": "teste278",
-        "senha": "82783711",
-        "data_validade": "25/01/2025",
-        "telefone": "",
-        "email": ""
-    },
-    {
         "login": "ctwinner",
         "senha": "616172",
         "data_validade": "25/01/2025",
@@ -336,6 +245,13 @@
         "email": ""
     },
     {
+        "login": "profaalmeida",
+        "senha": "779728",
+        "data_validade": "20/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "mshelmuth",
         "senha": "88278221",
         "data_validade": "20/09/2025",
@@ -413,6 +329,7 @@
         "email": ""
     }
 ]
+
 
 
 
