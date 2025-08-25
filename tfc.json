@@ -1,5 +1,12 @@
 [
     {
+        "login": "msricardopb",
+        "senha": "71527863",
+        "data_validade": "30/08/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "kaiosimao",
         "senha": "ks9918276",
         "data_validade": "25/09/2025",
@@ -119,6 +126,7 @@
         "email": ""
     }
 ]
+
 
 
 
