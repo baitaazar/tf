@@ -1,5 +1,12 @@
 [
     {
+        "login": "alexsamasi",
+        "senha": "samasi3324",
+        "data_validade": "30/08/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "msalexandredelara",
         "senha": "71163426",
         "data_validade": "26/09/2025",
@@ -140,6 +147,7 @@
         "email": ""
     }
 ]
+
 
 
 
