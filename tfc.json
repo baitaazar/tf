@@ -1,5 +1,12 @@
 [
     {
+        "login": "davidcarbajal",
+        "senha": "771639",
+        "data_validade": "10/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "rafaelschmitt",
         "senha": "173097",
         "data_validade": "02/09/2025",
@@ -168,6 +175,7 @@
         "email": ""
     }
 ]
+
 
 
 
