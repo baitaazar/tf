@@ -1,5 +1,12 @@
 [
     {
+        "login": "junioreis",
+        "senha": "resi9926",
+        "data_validade": "30/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "profmariana2",
         "senha": "38testelog1",
         "data_validade": "30/09/2025",
@@ -238,5 +245,6 @@
         "email": ""
     }
 ]
+
 
 
