@@ -1,5 +1,12 @@
 [
     {
+        "login": "profmariana2",
+        "senha": "38testelog1",
+        "data_validade": "30/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "msalfredo",
         "senha": "717637",
         "data_validade": "15/09/2025",
@@ -231,4 +238,5 @@
         "email": ""
     }
 ]
+
 
