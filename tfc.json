@@ -1,5 +1,12 @@
 [
     {
+        "login": "ksgiovannalopes",
+        "senha": "9181737",
+        "data_validade": "26/09/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "msedilson",
         "senha": "0193737",
         "data_validade": "26/09/2025",
@@ -294,6 +301,7 @@
         "email": ""
     }
 ]
+
 
 
 
