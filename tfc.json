@@ -1,5 +1,12 @@
 [
     {
+        "login": "teamribeirofabrica",
+        "senha": "017152",
+        "data_validade": "06/11/2025",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "lyketkd",
         "senha": "617712",
         "data_validade": "21/10/2025",
@@ -392,6 +399,7 @@
         "email": ""
     }
 ]
+
 
 
 
