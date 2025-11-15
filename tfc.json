@@ -1,5 +1,12 @@
 [
     {
+        "login": "masciomascarenhas",
+        "senha": "616771",
+        "data_validade": "15/11/2026",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "teamribeirofabrica",
         "senha": "017152",
         "data_validade": "06/11/2025",
@@ -399,6 +406,7 @@
         "email": ""
     }
 ]
+
 
 
 
