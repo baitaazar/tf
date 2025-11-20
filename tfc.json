@@ -1,5 +1,12 @@
 [
     {
+        "login": "kssandra",
+        "senha": "979943",
+        "data_validade": "19/11/2026",
+        "telefone": "",
+        "email": ""
+    },
+    {
         "login": "msalex",
         "senha": "616198",
         "data_validade": "15/12/2026",
@@ -413,6 +420,7 @@
         "email": ""
     }
 ]
+
 
 
 
