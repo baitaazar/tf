@@ -1,4 +1,11 @@
-[    
+[
+    {
+        "login": "mestreevandro",
+        "senha": "616289",
+        "data_validade": "29/05/2026",
+        "telefone": "",
+        "email": ""
+    },  
     {
         "login": "rossanodiniz",
         "senha": "528932",
